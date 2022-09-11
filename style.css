@@ -1,0 +1,46 @@
+/* Reset */
+
+/* Components */
+body {
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 auto;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.header {
+    background-size: cover;
+    text-align: center;
+    height: auto;
+}
+
+.header img.fox {
+    vertical-align: bottom;
+}
+
+.contents {
+    background-color: #8d5328;
+    box-shadow: 0 10px 0 0 #663300;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.contents h1 {
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    margin: 15px;
+}
+
+.contents p {
+    text-align: left;
+    font-size: 17px;
+    line-height: 20px;
+    color: bisque;
+    margin: 15px;
+}
